@@ -1,23 +1,23 @@
-$base-body-font-family: inherit;
-$base-body-font-family-mono: inherit;
-$base-body-font-size: 1rem;
-$base-body-line-height: 1.5rem;
+$base-body-font-family: inherit !default;
+$base-body-font-family-mono: inherit !default;
+$base-body-font-size: 1rem !default;
+$base-body-line-height: 1.5rem !default;
 
-$base-heading-font-family: inherit;
-$base-heading-font-weight: 700;
-$base-heading-font-size: 16px;
-$base-heading-line-height: 2rem;
+$base-heading-font-family: inherit !default;
+$base-heading-font-weight: 700 !default;
+$base-heading-font-size: 16px !default;
+$base-heading-line-height: 2rem !default;
 
-$props-types-name-text: red;
-$props-types-name-bg: #fff0f1;
+$props-types-name-text: red !default;
+$props-types-name-bg: #fff0f1 !default;
 
-$props-types-text: $dark;
-$props-types-bg: $white;
-$props-types-border: none;
+$props-types-text: $dark !default;
+$props-types-bg: $white !default;
+$props-types-border: none !default;
 
-$base-heading-h1-font-size: 36px;
-$base-heading-h2-font-size: 30px;
-$base-heading-h3-font-size: 24px;
-$base-heading-h4-font-size: 20px;
-$base-heading-h5-font-size: 18px;
-$base-heading-h6-font-size: 16px;
+$base-heading-h1-font-size: 36px !default;
+$base-heading-h2-font-size: 30px !default;
+$base-heading-h3-font-size: 24px !default;
+$base-heading-h4-font-size: 20px !default;
+$base-heading-h5-font-size: 18px !default;
+$base-heading-h6-font-size: 16px !default;

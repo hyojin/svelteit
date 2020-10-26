@@ -11,8 +11,8 @@
 // $dark: black;
 // $white: white;
 
-$init: #f4f4f4; // default
-$primary: #9100ff;
+$init: #f4f4f4 !default; // default
+$primary: #9100ff !default;
 $secondary: desaturate($primary, 85);
 $success: adjust_hue(desaturate($primary, 45), 200);
 $danger: adjust_hue($primary, 60);
@@ -20,8 +20,8 @@ $warning: adjust_hue($primary, 125);
 $info: adjust_hue($primary, 275);
 $dark: darken($primary, 45);
 $light: lighten($primary, 45);
-$white: #ffffff;
-$code: #f0f0f0;
+$white: #ffffff !default;
+$code: #f0f0f0 !default;
 
 // THEME 2
 // $init: #f4f4f4; // default
